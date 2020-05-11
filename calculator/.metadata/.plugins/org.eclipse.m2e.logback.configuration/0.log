@@ -1,0 +1,245 @@
+2020-05-10 20:27:49,305 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-10 20:28:41,372 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:4.0.0 @ D:\Java Project\calculator\calculator\pom.xml.
+2020-05-10 20:28:41,926 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2020-05-10 20:28:41,958 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2020-05-10 20:28:42,270 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2020-05-10 20:28:42,301 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2020-05-10 20:28:42,373 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.jar
+2020-05-10 20:28:42,480 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.jar
+2020-05-10 20:28:42,503 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.jar
+2020-05-10 20:28:42,535 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.jar
+2020-05-10 20:28:42,557 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2020-05-10 20:28:42,622 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2020-05-10 20:28:43,530 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /calculator/src/main/java
+2020-05-10 20:28:43,533 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /calculator/src/main/resources
+2020-05-10 20:28:43,534 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /calculator/src/test/java
+2020-05-10 20:28:43,534 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /calculator/src/test/resources
+2020-05-10 20:28:50,201 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-10 20:28:51,235 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-bom/1.11.256/aws-java-sdk-bom-1.11.256.pom
+2020-05-10 20:28:51,322 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-bom/1.11.256/aws-java-sdk-bom-1.11.256.pom
+2020-05-10 20:28:51,355 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-pom/1.11.256/aws-java-sdk-pom-1.11.256.pom
+2020-05-10 20:28:51,389 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-pom/1.11.256/aws-java-sdk-pom-1.11.256.pom
+2020-05-10 20:28:52,682 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:1.0.0 @ D:\Java Project\calculator\calculator\pom.xml.
+2020-05-10 20:28:52,734 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.pom
+2020-05-10 20:28:52,764 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.pom
+2020-05-10 20:28:52,831 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.pom
+2020-05-10 20:28:52,891 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.pom
+2020-05-10 20:28:52,944 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.6.11/byte-buddy-parent-1.6.11.pom
+2020-05-10 20:28:53,042 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.6.11/byte-buddy-parent-1.6.11.pom
+2020-05-10 20:28:53,080 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.pom
+2020-05-10 20:28:53,118 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.pom
+2020-05-10 20:28:53,165 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5.pom
+2020-05-10 20:28:53,197 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5.pom
+2020-05-10 20:28:53,229 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.5/objenesis-parent-2.5.pom
+2020-05-10 20:28:53,262 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.5/objenesis-parent-2.5.pom
+2020-05-10 20:28:53,321 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.11.256/aws-java-sdk-s3-1.11.256.pom
+2020-05-10 20:28:53,355 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.11.256/aws-java-sdk-s3-1.11.256.pom
+2020-05-10 20:28:53,417 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.11.256/aws-java-sdk-kms-1.11.256.pom
+2020-05-10 20:28:53,445 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.11.256/aws-java-sdk-kms-1.11.256.pom
+2020-05-10 20:28:53,488 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.11.256/aws-java-sdk-core-1.11.256.pom
+2020-05-10 20:28:53,522 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.11.256/aws-java-sdk-core-1.11.256.pom
+2020-05-10 20:28:53,571 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.pom
+2020-05-10 20:28:53,609 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.pom
+2020-05-10 20:28:53,640 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.2/httpcomponents-client-4.5.2.pom
+2020-05-10 20:28:53,676 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.2/httpcomponents-client-4.5.2.pom
+2020-05-10 20:28:53,707 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2020-05-10 20:28:53,763 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2020-05-10 20:28:53,827 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.pom
+2020-05-10 20:28:53,859 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.pom
+2020-05-10 20:28:53,893 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.4/httpcomponents-core-4.4.4.pom
+2020-05-10 20:28:53,935 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.4/httpcomponents-core-4.4.4.pom
+2020-05-10 20:28:54,071 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2020-05-10 20:28:54,165 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2020-05-10 20:28:54,355 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/jmespath-java/1.11.256/jmespath-java-1.11.256.pom
+2020-05-10 20:28:54,386 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/jmespath-java/1.11.256/jmespath-java-1.11.256.pom
+2020-05-10 20:28:54,433 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.11.256/aws-java-sdk-sns-1.11.256.pom
+2020-05-10 20:28:54,475 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.11.256/aws-java-sdk-sns-1.11.256.pom
+2020-05-10 20:28:54,509 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.11.256/aws-java-sdk-sqs-1.11.256.pom
+2020-05-10 20:28:54,544 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.11.256/aws-java-sdk-sqs-1.11.256.pom
+2020-05-10 20:28:54,589 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.11.256/aws-java-sdk-cognitoidentity-1.11.256.pom
+2020-05-10 20:28:54,630 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.11.256/aws-java-sdk-cognitoidentity-1.11.256.pom
+2020-05-10 20:28:54,669 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.11.256/aws-java-sdk-kinesis-1.11.256.pom
+2020-05-10 20:28:54,704 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.11.256/aws-java-sdk-kinesis-1.11.256.pom
+2020-05-10 20:28:54,745 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.11.256/aws-java-sdk-dynamodb-1.11.256.pom
+2020-05-10 20:28:54,796 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.11.256/aws-java-sdk-dynamodb-1.11.256.pom
+2020-05-10 20:28:54,861 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.jar
+2020-05-10 20:28:54,995 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.jar
+2020-05-10 20:28:55,023 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.jar
+2020-05-10 20:28:55,285 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.jar
+2020-05-10 20:28:55,310 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.jar
+2020-05-10 20:28:55,348 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.jar
+2020-05-10 20:28:55,371 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5.jar
+2020-05-10 20:28:55,417 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5.jar
+2020-05-10 20:28:55,444 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.11.256/aws-java-sdk-s3-1.11.256.jar
+2020-05-10 20:28:55,535 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.11.256/aws-java-sdk-s3-1.11.256.jar
+2020-05-10 20:28:55,562 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.11.256/aws-java-sdk-kms-1.11.256.jar
+2020-05-10 20:28:55,625 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.11.256/aws-java-sdk-kms-1.11.256.jar
+2020-05-10 20:28:55,721 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.11.256/aws-java-sdk-core-1.11.256.jar
+2020-05-10 20:28:55,829 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.11.256/aws-java-sdk-core-1.11.256.jar
+2020-05-10 20:28:55,851 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar
+2020-05-10 20:28:55,965 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar
+2020-05-10 20:28:55,995 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar
+2020-05-10 20:28:56,056 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar
+2020-05-10 20:28:56,081 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2020-05-10 20:28:56,136 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2020-05-10 20:28:56,161 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/jmespath-java/1.11.256/jmespath-java-1.11.256.jar
+2020-05-10 20:28:56,196 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/jmespath-java/1.11.256/jmespath-java-1.11.256.jar
+2020-05-10 20:28:56,229 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.11.256/aws-java-sdk-sns-1.11.256.jar
+2020-05-10 20:28:56,318 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.11.256/aws-java-sdk-sns-1.11.256.jar
+2020-05-10 20:28:56,347 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.11.256/aws-java-sdk-sqs-1.11.256.jar
+2020-05-10 20:28:56,420 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.11.256/aws-java-sdk-sqs-1.11.256.jar
+2020-05-10 20:28:56,451 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.11.256/aws-java-sdk-cognitoidentity-1.11.256.jar
+2020-05-10 20:28:56,539 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.11.256/aws-java-sdk-cognitoidentity-1.11.256.jar
+2020-05-10 20:28:56,567 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.11.256/aws-java-sdk-kinesis-1.11.256.jar
+2020-05-10 20:28:56,692 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.11.256/aws-java-sdk-kinesis-1.11.256.jar
+2020-05-10 20:28:56,718 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.11.256/aws-java-sdk-dynamodb-1.11.256.jar
+2020-05-10 20:28:56,913 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.11.256/aws-java-sdk-dynamodb-1.11.256.jar
+2020-05-10 20:29:03,559 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2020-05-10 20:29:03,563 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2020-05-10 20:29:03,713 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22-sources.jar
+2020-05-10 20:29:03,875 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22-sources.jar
+2020-05-10 20:29:04,810 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-core:2.7.22
+2020-05-10 20:29:04,841 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11-sources.jar
+2020-05-10 20:29:04,979 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11-sources.jar
+2020-05-10 20:29:05,998 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.6.11
+2020-05-10 20:29:06,030 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11-sources.jar
+2020-05-10 20:29:06,071 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11-sources.jar
+2020-05-10 20:29:06,658 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy-agent:1.6.11
+2020-05-10 20:29:06,695 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5-sources.jar
+2020-05-10 20:29:06,738 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5-sources.jar
+2020-05-10 20:29:07,533 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.objenesis:objenesis:2.5
+2020-05-10 20:29:07,581 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.11.256/aws-java-sdk-s3-1.11.256-sources.jar
+2020-05-10 20:29:07,678 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.11.256/aws-java-sdk-s3-1.11.256-sources.jar
+2020-05-10 20:29:07,749 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-s3:1.11.256
+2020-05-10 20:29:07,778 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.11.256/aws-java-sdk-kms-1.11.256-sources.jar
+2020-05-10 20:29:07,840 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.11.256/aws-java-sdk-kms-1.11.256-sources.jar
+2020-05-10 20:29:07,982 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-kms:1.11.256
+2020-05-10 20:29:08,012 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.11.256/aws-java-sdk-core-1.11.256-sources.jar
+2020-05-10 20:29:08,103 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.11.256/aws-java-sdk-core-1.11.256-sources.jar
+2020-05-10 20:29:08,207 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-core:1.11.256
+2020-05-10 20:29:08,211 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.1.3
+2020-05-10 20:29:08,239 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar
+2020-05-10 20:29:08,335 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar
+2020-05-10 20:29:08,411 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.2
+2020-05-10 20:29:08,444 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4-sources.jar
+2020-05-10 20:29:08,531 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4-sources.jar
+2020-05-10 20:29:08,642 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.4
+2020-05-10 20:29:08,658 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /calculator/src/main/java
+2020-05-10 20:29:08,658 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /calculator/src/main/resources
+2020-05-10 20:29:08,671 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /calculator/src/test/java
+2020-05-10 20:29:08,671 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /calculator/src/test/resources
+2020-05-10 20:29:08,679 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+2020-05-10 20:29:08,733 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+2020-05-10 20:29:08,941 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.9
+2020-05-10 20:29:08,946 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.ion:ion-java:1.0.2
+2020-05-10 20:29:08,951 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.6.7.1
+2020-05-10 20:29:08,954 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.6.0
+2020-05-10 20:29:08,960 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.6.7
+2020-05-10 20:29:08,964 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.6.7
+2020-05-10 20:29:08,969 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.8.1
+2020-05-10 20:29:09,011 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/jmespath-java/1.11.256/jmespath-java-1.11.256-sources.jar
+2020-05-10 20:29:09,054 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/jmespath-java/1.11.256/jmespath-java-1.11.256-sources.jar
+2020-05-10 20:29:09,132 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:jmespath-java:1.11.256
+2020-05-10 20:29:09,135 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-lambda-java-events:1.3.0
+2020-05-10 20:29:09,155 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 18 sec
+2020-05-10 20:29:09,178 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.11.256/aws-java-sdk-sns-1.11.256-sources.jar
+2020-05-10 20:29:09,260 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.11.256/aws-java-sdk-sns-1.11.256-sources.jar
+2020-05-10 20:29:09,534 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-sns:1.11.256
+2020-05-10 20:29:09,569 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.11.256/aws-java-sdk-sqs-1.11.256-sources.jar
+2020-05-10 20:29:09,668 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.11.256/aws-java-sdk-sqs-1.11.256-sources.jar
+2020-05-10 20:29:09,775 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-sqs:1.11.256
+2020-05-10 20:29:09,812 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.11.256/aws-java-sdk-cognitoidentity-1.11.256-sources.jar
+2020-05-10 20:29:09,866 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.11.256/aws-java-sdk-cognitoidentity-1.11.256-sources.jar
+2020-05-10 20:29:09,941 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-cognitoidentity:1.11.256
+2020-05-10 20:29:09,973 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.11.256/aws-java-sdk-kinesis-1.11.256-sources.jar
+2020-05-10 20:29:10,140 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.11.256/aws-java-sdk-kinesis-1.11.256-sources.jar
+2020-05-10 20:29:10,279 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-kinesis:1.11.256
+2020-05-10 20:29:10,295 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:29:10,306 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:29:10,310 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:29:10,311 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-10 20:29:10,323 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.11.256/aws-java-sdk-dynamodb-1.11.256-sources.jar
+2020-05-10 20:29:10,481 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.11.256/aws-java-sdk-dynamodb-1.11.256-sources.jar
+2020-05-10 20:29:10,546 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.0.0/maven-shade-plugin-3.0.0.pom
+2020-05-10 20:29:10,583 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.0.0/maven-shade-plugin-3.0.0.pom
+2020-05-10 20:29:10,608 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-dynamodb:1.11.256
+2020-05-10 20:29:10,611 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-lambda-java-core:1.1.0
+2020-05-10 20:29:11,990 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:29:11,992 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:29:11,994 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:29:11,995 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:29:12,042 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.2
+2020-05-10 20:29:12,044 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.4
+2020-05-10 20:29:12,048 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.9
+2020-05-10 20:29:12,051 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:jmespath-java:1.11.256
+2020-05-10 20:29:12,053 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-sns:1.11.256
+2020-05-10 20:29:12,058 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-sqs:1.11.256
+2020-05-10 20:29:12,061 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-cognitoidentity:1.11.256
+2020-05-10 20:29:12,063 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-kinesis:1.11.256
+2020-05-10 20:29:12,065 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-dynamodb:1.11.256
+2020-05-10 20:29:12,068 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:jmespath-java:1.11.256
+2020-05-10 20:29:12,070 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-sns:1.11.256
+2020-05-10 20:29:12,073 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-sqs:1.11.256
+2020-05-10 20:29:12,076 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-cognitoidentity:1.11.256
+2020-05-10 20:29:12,079 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-kinesis:1.11.256
+2020-05-10 20:29:12,081 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-dynamodb:1.11.256
+2020-05-10 20:29:13,009 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:29:13,010 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:29:13,011 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:29:13,012 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:30:08,221 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:4.0.0 @ D:\Java Project\calculator\calculator\pom.xml.
+2020-05-10 20:30:08,684 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /calculator/src/main/java
+2020-05-10 20:30:08,684 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /calculator/src/main/resources
+2020-05-10 20:30:08,685 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /calculator/src/test/java
+2020-05-10 20:30:08,685 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /calculator/src/test/resources
+2020-05-10 20:30:09,971 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-10 20:30:15,473 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.lambda:demo:1.0.0 @ D:\Java Project\calculator\calculator\pom.xml.
+2020-05-10 20:30:15,950 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /calculator/src/main/java
+2020-05-10 20:30:15,951 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /calculator/src/main/resources
+2020-05-10 20:30:15,957 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /calculator/src/test/java
+2020-05-10 20:30:15,957 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /calculator/src/test/resources
+2020-05-10 20:30:16,369 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-05-10 20:30:17,089 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:30:17,091 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:30:17,094 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:30:17,095 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:30:38,444 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:30:38,448 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:30:38,449 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:30:38,450 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:37:48,654 [Worker-4: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-05-10 20:39:49,962 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:39:49,964 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:39:49,966 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:39:49,967 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:42:47,488 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:42:47,489 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:42:47,491 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:42:47,492 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:54:30,959 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:54:30,960 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 20:54:30,962 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 20:54:30,962 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 21:01:19,838 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 21:01:19,839 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-10 21:01:19,840 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-10 21:01:19,841 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
